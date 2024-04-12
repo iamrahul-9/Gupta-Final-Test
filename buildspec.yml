@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
      AWS_DEFAULT_REGION: "us-east-1"
-     IMAGE_REPO_NAME: "Gupta-Final-Test"
+     IMAGE_REPO_NAME: "test"
      AWS_ACCOUNT_ID: "207513762017"
  
 phases:
