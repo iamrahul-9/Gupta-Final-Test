@@ -1,4 +1,3 @@
-# Dockerfile for the final-test
 # Use an official Python runtime as a parent image
 FROM hylang:python3.9-bullseye
 
